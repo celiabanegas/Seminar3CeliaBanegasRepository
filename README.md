@@ -1,1 +1,1 @@
-# Seminar3CeliaBanegasRepository
+# Seminar 3: The scientific paper of the future
