@@ -1,0 +1,30 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Seminar3CeliaBanegasRepository",
+  "description": "Repository for Seminar 3 practical exercises, including provenance (PROV) diagram and related materials.",
+  "codeRepository": "https://github.com/celiabanegas/Seminar3CeliaBanegasRepository",
+  "issueTracker": "https://github.com/celiabanegas/Seminar3CeliaBanegasRepository/issues",
+  "license": "https://opensource.org/licenses/MIT",
+  "version": "v1.0.1",
+  "datePublished": "2026-02-23",
+  "identifier": "https://doi.org/10.5281/zenodo.18745374",
+  "keywords": [
+    "PROV",
+    "provenance",
+    "seminar",
+    "scientific paper",
+    "Zenodo",
+    "GitHub"
+  ],
+  "programmingLanguage": [
+    "Python"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Celia",
+      "familyName": "Banegas"
+    }
+  ]
+}
